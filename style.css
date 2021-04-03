@@ -18,7 +18,7 @@ nav {
 }
 label.logo {
   font-family: cursive;
-  color: rgb(27, 8, 8);
+  color: rgb(0, 0, 0);
   font-size: 35px;
   line-height: 80px;
   padding: 0 100px;
@@ -26,6 +26,7 @@ label.logo {
 }
 small {
   font-weight: lighter;
+  color: rgb(0, 0, 0);
 }
 nav ul {
   float: right;
